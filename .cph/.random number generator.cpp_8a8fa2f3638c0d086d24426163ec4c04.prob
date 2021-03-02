@@ -1,0 +1,1 @@
+{"name":"Local: random number generator","url":"/home/ashish/Desktop/cpp/random number generator.cpp","tests":[{"id":1614081033103,"input":"100","output":""},{"id":1614084520189,"input":"1000","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ashish/Desktop/cpp/random number generator.cpp","group":"local","local":true}

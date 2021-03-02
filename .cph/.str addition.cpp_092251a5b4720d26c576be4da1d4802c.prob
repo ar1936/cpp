@@ -1,0 +1,1 @@
+{"name":"Local: str addition","url":"/home/ashish/Desktop/cpp/str addition.cpp","tests":[{"id":1612954923184,"input":"1634466","output":"5"},{"id":1612954931126,"input":"2866464673","output":"6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ashish/Desktop/cpp/str addition.cpp","group":"local","local":true}

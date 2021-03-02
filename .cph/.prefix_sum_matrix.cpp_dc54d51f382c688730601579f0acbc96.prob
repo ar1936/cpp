@@ -1,0 +1,1 @@
+{"name":"Local: prefix_sum_matrix","url":"/home/ashish/Desktop/cpp/prefix_sum_matrix.cpp","tests":[{"id":1612169583296,"input":"3 3 \n10 2o 30\n5 10 20\n2 4 6","output":"10 30 60\n15 45 95\n17 51 107"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ashish/Desktop/cpp/prefix_sum_matrix.cpp","group":"local","local":true}

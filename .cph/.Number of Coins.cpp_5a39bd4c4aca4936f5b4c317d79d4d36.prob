@@ -1,0 +1,1 @@
+{"name":"Local: Number of Coins","url":"/home/ashish/Desktop/cpp/Number of Coins.cpp","tests":[{"id":1614340376432,"input":"30 3\n25 10 5","output":"2"},{"id":1614340934823,"input":"11 4 \n9 6 5 1","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ashish/Desktop/cpp/Number of Coins.cpp","group":"local","local":true}

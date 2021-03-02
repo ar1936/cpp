@@ -1,0 +1,1 @@
+{"name":"Local: Longest Common Substring","url":"/home/ashish/Desktop/cpp/Longest Common Substring.cpp","tests":[{"id":1613985203209,"input":"ABCDGH\nACDGHR","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ashish/Desktop/cpp/Longest Common Substring.cpp","group":"local","local":true}
